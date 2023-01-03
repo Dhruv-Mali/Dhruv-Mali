@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruv-mali" alt="dhruv-mali" /></a> </p>
 
-- 🌱 I’m currently learning **html and css**
+- 🌱 I’m currently learning ** javascript **
 
 - 📫 How to reach me **dhruvmali254@gmail.com**
 
