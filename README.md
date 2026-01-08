@@ -37,7 +37,8 @@ I love building scalable backend systems, automating workflows, and deploying ap
 ## 🏆 Certifications  
 
 - ☁️ **AWS Academy Cloud Foundations**  
-- ☁️ **AWS Academy Cloud Architecting**  
+- ☁️ **AWS Academy Cloud Architecting**
+- ☁️ **AWS Certified Cloud Practitioner** 
 - 🔹 **Microsoft Azure Fundamentals (AZ-900)**  
 - 💾 **DBMS Fundamentals Course**  
 - 🧭 **Cloud Climber: AWS Certification Edition**  
