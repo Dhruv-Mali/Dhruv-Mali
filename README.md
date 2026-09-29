@@ -3,7 +3,7 @@
 🎯 **Cloud & DevOps Enthusiast**  
 🌍 Surat, Gujarat, India  
 📧 [dhruvmali9039@gmail.com](mailto:dhruvmali9039@gmail.com)  
-🔗 [Portfolio](https://dhruvmali25.me) | [LinkedIn](https://linkedin.com/in/dhruv-mali-114435221) | [GitHub](https://github.com/Dhruv-Mali)  
+🔗 [Portfolio]((https://new-portfollio-nine.vercel.app/)) | [LinkedIn](https://linkedin.com/in/dhruv-mali-114435221) | [GitHub](https://github.com/Dhruv-Mali)  
 
 ---
 
