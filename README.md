@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dhruv Mali  
 
-**System & Security Engineer** | Cloud & Cybersecurity Specialist  
+**System & Security Engineer** | Cloud & Devops Specialist  
 🌍 Surat, Gujarat, India  
 📧 [dhruvmali9039@gmail.com](mailto:dhruvmali9039@gmail.com)  
 📱 +91 89802 37478  
@@ -87,13 +87,6 @@ CGPA: 7.46
 - Built scalable CRUD operations with **99.9% uptime**  
 - Achieved **60% cost reduction** via auto-scaling  
 - Optimized DynamoDB schema for sub-100ms response times  
-
----
-
-## 📊 GitHub Stats  
-
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruv-Mali&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-Mali&layout=compact&theme=tokyonight)  
 
 ---
 
